@@ -8,14 +8,14 @@ I'm a Frontend Developer who loves React, Dart & Flutter ❤️
 ---
 
 ### 🧠 Tech Stack
-<img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/react-logo.png" width="40" alt="React" />
-<img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/dart-logo.png" width="40" alt="Dart" />
-<img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/flutter-logo.png" width="40" alt="Flutter" />
+<img src="https://raw.githubusercontent.com/Ahmed-Tarek/your-repo/main/assets/react-logo.png" width="40" alt="React" />
+<img src="https://raw.githubusercontent.com/Ahmed-Tarek/your-repo/main/assets/dart-logo.png" width="40" alt="Dart" />
+<img src="https://raw.githubusercontent.com/Ahmed-Tarek/your-repo/main/assets/flutter-logo.png" width="40" alt="Flutter" />
 
 ---
 
 ### 📊 GitHub Stats
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=yAhmed-Tarek&show_icons=true&theme=tokyonight)
 
 ---
 
