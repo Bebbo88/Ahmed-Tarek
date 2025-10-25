@@ -21,9 +21,6 @@ I'm a Frontend Developer who loves React, Dart & Flutter ❤️
   <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="40" title="Firebase" />
   <img src="https://cdn.simpleicons.org/github/181717" width="40" title="GitHub" />
   <img src="https://cdn.simpleicons.org/git/F05032" width="40" title="Git" />
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="40" title="VS Code" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" width="40" title="NPM" />
-  <img src="https://cdn.simpleicons.org/node.js/339933" width="40" title="Node.js" />
 </p>
 ---
 
