@@ -8,9 +8,9 @@ I'm a Frontend Developer who loves React, Dart & Flutter ❤️
 ---
 
 ### 🧠 Tech Stack
-<img src="https://raw.githubusercontent.com/Ahmed-Tarek/Ahmed-Tarek/main/assets/react-logo.png" width="40" alt="React" />
-<img src="https://raw.githubusercontent.com/Ahmed-Tarek/Ahmed-Tarek/main/assets/dart-logo.png" width="40" alt="Dart" />
-<img src="https://raw.githubusercontent.com/Ahmed-Tarek/Ahmed-Tarek/main/assets/flutter-logo.png" width="40" alt="Flutter" />
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="40" />
+<img src="https://cdn.simpleicons.org/dart/0175C2" width="40" />
+<img src="https://cdn.simpleicons.org/flutter/02569B" width="40" />
 
 ---
 
